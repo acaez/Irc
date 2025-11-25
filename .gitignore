@@ -1,0 +1,6 @@
+*.pdf
+ft_irc
+*.txt
+*.o
+ircserv
+.vscode
